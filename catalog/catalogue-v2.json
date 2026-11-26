@@ -1,18 +1,18 @@
 {
-  "revision": 2,
+  "revision": 3,
   "releases": [
     {
-      "id": "ppsaprojekt-pkg",
-      "titleId": "PPSAPROJEKT",
-      "sizeBytes": 104857600,
-      "provider": "Archive.org",
+      "id": "ppsa38500-vf",
+      "titleId": "PPSA38500",
+      "sizeBytes": 221029754470,
+      "provider": "Vikingfile",
       "format": "PKG",
       "version": "01.000",
-      "filename": "PPSAPROJEKT.pkg",
-      "url": "https://example.com/replace-with-your-file-1",
-      "browserUrl": "https://example.com/replace-with-your-file-2",
+      "filename": "PPSA38500.pkg",
+      "url": "https://vik1ngf1le.online/f/54VHFcPHGM",
+      "browserUrl": "https://akirabox.to/dkD3Y2vPozLQ/file",
       "sha256": "",
-      "sourceId": "archive",
+      "sourceId": "vikingfile",
       "gameId": "projekt",
       "title": "PROJEKT",
       "genre": "Homebrew",
@@ -28,8 +28,6 @@
       "addedAt": "2026-11-26T00:00:00+00:00",
       "sourceCheckedAt": "2026-11-26T00:00:00+00:00",
       "consoleVerified": false,
-      "directAvailable": true,
-      "browserAvailable": true,
       "homeOrder": 0,
       "pickOrder": 0
     }
