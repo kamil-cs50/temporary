@@ -1,0 +1,41 @@
+{
+  "v": 1,
+  "version": 1,
+  "name": "BlackBox Homebrew",
+  "generated": "2026-11-26T00:00:00Z",
+  "games": [
+    {
+      "id": "PPSA38500",
+      "title": "PROJEKT",
+      "platform": "ps5",
+      "art": {
+        "cover": ""
+      },
+      "addedAt": "2026-11-26",
+      "releases": [
+        {
+          "url": "https://vik1ngf1le.online/f/54VHFcPHGM",
+          "label": "PKG 01.000 Base - VikingFile",
+          "provider": "VikingFile",
+          "format": "pkg",
+          "build": "fpkg",
+          "role": "base",
+          "version": "01.000",
+          "sizeBytes": null,
+          "record": "projekt-ppsa38500-pkg-vf1"
+        },
+        {
+          "url": "https://akirabox.to/dkD3Y2vPozLQ/file",
+          "label": "PKG 01.000 Base - AkiraBox",
+          "provider": "AkiraBox",
+          "format": "pkg",
+          "build": "fpkg",
+          "role": "base",
+          "version": "01.000",
+          "sizeBytes": null,
+          "record": "projekt-ppsa38500-pkg-ak1"
+        }
+      ]
+    }
+  ]
+}
