@@ -1,36 +1,40 @@
 {
-  "revision": 3,
-  "releases": [
+  "v": 1,
+  "name": "BlackBox Homebrew",
+  "generated": "2026-11-26T00:00:00Z",
+  "games": [
     {
-      "id": "ppsa38500-vf",
-      "titleId": "PPSA38500",
-      "sizeBytes": 221029754470,
-      "provider": "Vikingfile",
-      "format": "PKG",
-      "version": "01.000",
-      "filename": "PPSA38500.pkg",
-      "url": "https://vik1ngf1le.online/f/54VHFcPHGM",
-      "browserUrl": "https://akirabox.to/dkD3Y2vPozLQ/file",
-      "sha256": "",
-      "sourceId": "vikingfile",
-      "gameId": "projekt",
+      "id": "PPSA38500",
       "title": "PROJEKT",
-      "genre": "Homebrew",
-      "tagline": "Własny projekt Homebrew.",
-      "description": "Własny projekt Homebrew.",
-      "cover": "https://example.com/replace-with-your-cover.png",
-      "hero": "https://example.com/replace-with-your-hero.png",
-      "coverFallback": null,
-      "heroFallback": null,
-      "publisher": "PROJEKT",
-      "releaseDate": "2026-11-26",
-      "artworkLayout": "wide",
-      "addedAt": "2026-11-26T00:00:00+00:00",
-      "sourceCheckedAt": "2026-11-26T00:00:00+00:00",
-      "consoleVerified": false,
-      "homeOrder": 0,
-      "pickOrder": 0
+      "platform": "ps5",
+      "art": {
+        "cover": ""
+      },
+      "addedAt": "2026-11-26",
+      "releases": [
+        {
+          "url": "https://vik1ngf1le.online/f/54VHFcPHGM",
+          "label": "PKG 01.000 Base - VikingFile",
+          "provider": "VikingFile",
+          "format": "pkg",
+          "build": "fpkg",
+          "role": "base",
+          "version": "01.000",
+          "sizeBytes": null,
+          "record": "projekt-ppsa38500-pkg-vf1"
+        },
+        {
+          "url": "https://akirabox.to/dkD3Y2vPozLQ/file",
+          "label": "PKG 01.000 Base - AkiraBox",
+          "provider": "AkiraBox",
+          "format": "pkg",
+          "build": "fpkg",
+          "role": "base",
+          "version": "01.000",
+          "sizeBytes": null,
+          "record": "projekt-ppsa38500-pkg-ak1"
+        }
+      ]
     }
-  ],
-  "schemaVersion": 1
+  ]
 }
